@@ -1,0 +1,7 @@
+{
+  "42": {
+    "KCToken": ["0xd1dB751c66046539FF2AC61CEda6ecE51f602913"],
+    "MockERC20": ["0xfc97B1271DD3ffE0A18Fcd03B2916c19b764886d"],
+    "TokenFarm": ["0xBA16fd812f12eeeCD5Ffd4B5dF0178D8a0D2029E"]
+  }
+}
